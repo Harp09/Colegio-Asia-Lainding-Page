@@ -1,5 +1,5 @@
 const http = require('http');
-
+var app = express();
 //const server = http.createServer((req,res) => {
 //    res.end('Hello word')
 //})
