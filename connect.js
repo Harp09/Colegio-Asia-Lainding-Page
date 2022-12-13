@@ -13,7 +13,7 @@ var conexion = mysql.createConnection({
   host: "52.73.155.169",
   user: "hebert",
   password: "12345",
-  database: "db_landing_page"
+  database: "db_landig_page"
 });
  
 //Verificar si la conexion a base de datos fue exitosa ,de lo contrario te devolvera un error

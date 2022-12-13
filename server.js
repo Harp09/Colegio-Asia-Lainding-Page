@@ -2,7 +2,7 @@ const http= require('http');
 const express = require('express');
 const app = express();
 
-//recursos
+//recursos(permite que el css conecte con html)
 app.use(express.static(__dirname+'/'));
 
 //Enrutamiento
