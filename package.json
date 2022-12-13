@@ -2,9 +2,9 @@
   "name": "colegio-asia-lainding-page",
   "version": "1.0.0",
   "description": "Lading Page de un colegio",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon ./server.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
